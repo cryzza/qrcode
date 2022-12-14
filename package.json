@@ -19,7 +19,7 @@
   "dependencies": {
     "awesome-qr": "^2.1.4-rc.0",
     "coingecko-api": "^1.0.10",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "qrcode": "^1.4.4",
     "request": "^2.88.2"
   }
